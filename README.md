@@ -41,7 +41,7 @@ streamlit run user_input_eng.py
 * the real path, for example: streamlit run /Users/rita/pfad/Assignment/user_input_eng.py
 
 streamlit run user_input_ita.py
-*the real path, for example: streamlit run /Users/rita/pfad/Assignment/user_input_ita.py
+* the real path, for example: streamlit run /Users/rita/pfad/Assignment/user_input_ita.py
 
 
 ## Supplement
