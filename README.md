@@ -1,5 +1,5 @@
-# individual_assignment3_user_input
-#SD5913 - Assignment 3
+# individual assignment3 user input
+SD5913
 
 ## This repository contains two web applications built using Streamlit:
 
