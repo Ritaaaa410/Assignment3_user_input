@@ -1,4 +1,4 @@
-# individual assignment3 user input
+# Individual assignment3 user input
 SD5913
 
 ## This repository contains two web applications built using Streamlit:
@@ -38,8 +38,10 @@ pip install streamlit requests gtts
 
 #### To run the web applications in terminal：
 streamlit run user_input_eng.py
+* the real path, for example: streamlit run /Users/rita/pfad/Assignment/user_input_eng.py
 
 streamlit run user_input_ita.py
+*the real path, for example: streamlit run /Users/rita/pfad/Assignment/user_input_ita.py
 
 
 ## Supplement
