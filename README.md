@@ -45,5 +45,5 @@ streamlit run user_input_ita.py
 
 
 ## Supplement
-- *Dear Prof. Gio, my ideas is to create web applications using Streamlit for language learner which we can use them to check the meaning, the pronounce with audio,etc. The inspiration is from my experience in language learning. I learned about English for more than 10 years and Italian for 2 years, but I always meet new word and need a quick check. For italian study, there arent'a high-quality translator or dictionary web especially for Chinese students. Although what I create are still draft of prototype now, hoping helping smooth learning process for language learning after polishment further in the future*.
+- *My ideas is to create web applications using Streamlit for language learner which we can use them to check the meaning, the pronounce with audio,etc. The inspiration is from my experience in language learning. I learned about English for more than 10 years and Italian for 2 years, but I always meet new word and need a quick check. For italian study, there arent'a high-quality translator or dictionary web especially for Chinese students. Although what I create are still draft of prototype now, hoping helping smooth learning process for language learning after polishment further in the future*.
 ### ArrivederLA^ ^
