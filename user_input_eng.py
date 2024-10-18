@@ -2,7 +2,7 @@ import streamlit as st
 from gtts import gTTS
 import os
 import requests
-import pyttsx3  # 使用 pyttsx3 作为离线备选方案
+import pyttsx3  
 
 # Function to fetch word information
 def fetch_word_info(word):
