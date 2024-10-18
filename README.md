@@ -8,14 +8,14 @@ SD5913
 
 ## Features
 
-### English Word Helper:
+### V1 English Word Helper:
 - **Enter an English word** to:
   - Retrieve its translation (via the Wiktionary API).
   - View the word's phonetic transcription (IPA).
   - See example sentences.
   - Listen to the word's pronunciation (WAV format).
 
-### Italian Learning Helper:
+### Iteration V2 Italian Learning Helper:
 - **Word Lookup**: Enter an Italian word to:
   - Get its English definition.
   - Get its translated Chinese information (especially for Chinese learner).
