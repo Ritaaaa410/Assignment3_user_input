@@ -34,7 +34,7 @@ Ensure you have the library installed:
 - gTTS
 
 #### To install the necessary dependencies, run:
-pip install streamlit requests gtts
+pip install streamlit requests gtts pyttsx3
 
 #### To run the web applications in local terminal：
 streamlit run user_input_eng.py
