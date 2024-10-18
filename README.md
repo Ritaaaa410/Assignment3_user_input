@@ -36,12 +36,10 @@ Ensure you have the library installed:
 #### To install the necessary dependencies, run:
 pip install streamlit requests gtts
 
-#### To run the web applications in terminal：
+#### To run the web applications in local terminal：
 streamlit run user_input_eng.py
-* the real path, for example: streamlit run /Users/rita/pfad/Assignment/user_input_eng.py
 
 streamlit run user_input_ita.py
-* the real path, for example: streamlit run /Users/rita/pfad/Assignment/user_input_ita.py
 
 
 ## Supplement
