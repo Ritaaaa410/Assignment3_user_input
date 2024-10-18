@@ -17,8 +17,8 @@ SD5913
 
 ### Italian Learning Helper:
 - **Word Lookup**: Enter an Italian word to:
-  - Get its English translation and definition.
-  - Retrieve phonetic transcription (if available).
+  - Get its English definition.
+  - Get its translated Chinese information (especially for Chinese learner).
   - Listen to the word's pronunciation (using gTTS for audio generation).
   
 - **Text-to-Speech**: Enter an Italian sentence or paragraph to:
@@ -32,7 +32,10 @@ Ensure you have the library installed:
 - Streamlit
 - Requests
 - gTTS
-
+- pyttsx3
+- beautifulsoup4
+- deep-translator
+  
 #### To install the necessary dependencies, run:
 pip install streamlit requests gtts pyttsx3 beautifulsoup4 deep-translator
 
